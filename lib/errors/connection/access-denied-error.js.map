@@ -1,0 +1,1 @@
+{"version":3,"file":"access-denied-error.js","sourceRoot":"","sources":["../../../src/errors/connection/access-denied-error.ts"],"names":[],"mappings":";;;;;AAAA,2EAAkD;AAElD;;GAEG;AACH,MAAM,iBAAkB,SAAQ,0BAAe;IAC7C,YAAY,MAAa;QACvB,KAAK,CAAC,MAAM,CAAC,CAAC;QACd,IAAI,CAAC,IAAI,GAAG,4BAA4B,CAAC;IAC3C,CAAC;CACF;AAED,kBAAe,iBAAiB,CAAC"}
